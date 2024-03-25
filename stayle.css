@@ -1,0 +1,13 @@
+body{
+    margin: 50px;
+}
+table,th,td{
+
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    
+}
+table{
+    width: 100%;
+    text-align: center;
+}
